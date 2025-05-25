@@ -20,6 +20,16 @@ Ten projekt przedstawia moje samodzielnie stworzone środowisko testowe w Virtua
 - Wdrożenie RAS z NAT – przekazywanie połączenia internetowego z serwera na maszyny klienckie
 - Testy połączenia z siecią z poziomu klienta
 
+## 👤 Automatyczne tworzenie 1000 użytkowników
+
+Do masowego tworzenia użytkowników domenowych wykorzystałem skrypt PowerShell udostępniony przez Josha Madakora w jego tutorialu „Active Directory Home Lab”:
+🔗 [Zobacz poradnik na YouTube](https://www.youtube.com/watch?v=djZ6btMS2u0)  
+🔗 [Zobacz skrypt na GitHubie](https://github.com/joshmadakor1/AD_PS)
+
+Skrypt automatycznie generuje 1000 użytkowników z losowymi nazwiskami i dodaje ich do Active Directory.
+
+> Plik `create_users.ps1` znajduje się w folderze `/scripts` w tym repozytorium. Wszystkie prawa do kodu należą do autora.
+
 ## 📷 Screeny
 Zrzuty ekranu dostępne w folderze [`/screenshots`](./screenshots)
 
