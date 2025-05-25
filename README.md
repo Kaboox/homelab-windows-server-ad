@@ -14,7 +14,7 @@ Ten projekt przedstawia moje samodzielnie stworzone środowisko testowe w Virtua
 
 ## ✅ Zakres działań
 - Konfiguracja kontrolera domeny (Active Directory Domain Services)
-- Tworzenie użytkowników, jednostek organizacyjnych (OU) i polityk GPO
+- Tworzenie użytkowników, jednostek organizacyjnych (OU)
 - Konfiguracja DHCP i DNS na serwerze
 - Dołączenie Windows 10 do domeny i testowanie logowania
 - Wdrożenie RAS z NAT – przekazywanie połączenia internetowego z serwera na maszyny klienckie
