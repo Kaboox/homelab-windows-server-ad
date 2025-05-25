@@ -28,7 +28,6 @@ Do masowego tworzenia użytkowników domenowych wykorzystałem skrypt PowerShell
 
 Skrypt automatycznie generuje 1000 użytkowników z losowymi nazwiskami i dodaje ich do Active Directory.
 
-> Plik `create_users.ps1` znajduje się w folderze `/scripts` w tym repozytorium. Wszystkie prawa do kodu należą do autora.
 
 ## 📷 Screeny
 Zrzuty ekranu dostępne w folderze [`/screenshots`](./screenshots)
