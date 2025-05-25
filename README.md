@@ -1,7 +1,7 @@
 # homelab-windows-server-ad
 Home lab project simulating basic IT infrastructure with Windows Server 2019, Active Directory, DHCP, DNS and NAT using VirtualBox.
 
-# 🖥️ Home Lab – Windows Server & Active Directory (2024)
+# 🖥️ Home Lab – Windows Server & Active Directory
 
 ## 📌 Opis projektu
 Ten projekt przedstawia moje samodzielnie stworzone środowisko testowe w VirtualBox, które odwzorowuje podstawową infrastrukturę IT wykorzystywaną w firmach. Zawiera konfigurację Active Directory, DHCP, DNS oraz usługę NAT za pomocą Remote Access Service (RAS).
