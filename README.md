@@ -11,6 +11,7 @@ Ten projekt przedstawia moje samodzielnie stworzone środowisko testowe w Virtua
 - Windows Server 2019 (kontroler domeny)
 - Windows 10 (klient dołączony do domeny)
 - AD DS, DNS, DHCP, RAS/NAT
+- Wirtualny router pfsense z firewallem
 
 ## ✅ Zakres działań
 - Konfiguracja kontrolera domeny (Active Directory Domain Services)
@@ -19,6 +20,8 @@ Ten projekt przedstawia moje samodzielnie stworzone środowisko testowe w Virtua
 - Dołączenie Windows 10 do domeny i testowanie logowania
 - Wdrożenie RAS z NAT – przekazywanie połączenia internetowego z serwera na maszyny klienckie
 - Testy połączenia z siecią z poziomu klienta
+- Konfiguracja wirtualnego routera
+- Konfiguracja oraz testowanie reguł firewall - blokowanie ruchu z klienta Windows 10 do sieci internet
 
 ## 👤 Automatyczne tworzenie 1000 użytkowników
 
@@ -36,3 +39,4 @@ Zrzuty ekranu dostępne w folderze [`/screenshots`](./screenshots)
 - Konfiguracja środowiska sieciowego w systemie Windows Server
 - Zarządzanie użytkownikami, domeną i usługami sieciowymi
 - Symulacja komunikacji sieciowej w zamkniętym labie lokalnym
+- Konfiguracja wirtualnego routera oraz firewalli
