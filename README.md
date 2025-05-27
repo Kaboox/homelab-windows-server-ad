@@ -1,4 +1,4 @@
-# homelab-windows-server-ad
+# homelab-windows-server-ad-router-firewall
 Home lab project simulating basic IT infrastructure with Windows Server 2019, Active Directory, DHCP, DNS, NAT and virtual Router with Firewall using VirtualBox.
 
 # 🖥️ Home Lab – Windows Server & Active Directory & Virtual Router with Firewall
